@@ -1,9 +1,9 @@
-.message__card
+.message
 {
     padding: 10px;
     margin:10px;
     width:fit-content;
-    align-items: right;
+    
 }
 .message__user
 {
@@ -14,16 +14,10 @@
 .message__userCard
 {
     background-color: #0b81ff !important;
-    margin-top:30px;
-    width: 200px;
-    float: right;
    
-    
 }
 .message__guestCard
 {
     background-color: #e9e9eb !important;
-    margin-top:30px;
-    width: 200px;
-
+    
 }
